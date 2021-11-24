@@ -4,7 +4,7 @@ This repo contains the code and instructions to reproduce the results in
 
 [Exploring Simple and Transferable Recognition-Aware Image Processing](https://arxiv.org/abs/1910.09185).
 
-Zhuang Liu, Tinghui Zhou, Hung-Ju Wang, Zhiqiang Shen, Bingyi Kang, Evan Shelhamer, Trevor Darrell.
+Zhuang Liu, Hung-Ju Wang, Tinghui Zhou, Zhiqiang Shen, Bingyi Kang, Evan Shelhamer, Trevor Darrell.
 
 <!-- ![image info](figs/fig1.png) -->
 
