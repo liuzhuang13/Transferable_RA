@@ -1,8 +1,8 @@
-## Transferable Recognition-Aware Image Processing
+## Exploring Simple and Transferable Recognition-Aware Image Processing
 
 This repo contains the code and instructions to reproduce the results in 
 
-[Transferable Recognition-Aware Image Processing](https://arxiv.org/abs/1910.09185).
+[Exploring Simple and Transferable Recognition-Aware Image Processing](https://arxiv.org/abs/1910.09185).
 
 Zhuang Liu, Tinghui Zhou, Hung-Ju Wang, Zhiqiang Shen, Bingyi Kang, Evan Shelhamer, Trevor Darrell.
 
