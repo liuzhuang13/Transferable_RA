@@ -2,7 +2,7 @@
 
 This repo contains the code and instructions to reproduce the results in 
 
-[Exploring Simple and Transferable Recognition-Aware Image Processing](https://arxiv.org/abs/1910.09185).
+[Exploring Simple and Transferable Recognition-Aware Image Processing](https://arxiv.org/abs/1910.09185). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 Zhuang Liu, Hung-Ju Wang, Tinghui Zhou, Zhiqiang Shen, Bingyi Kang, Evan Shelhamer, Trevor Darrell.
 
